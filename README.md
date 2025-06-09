@@ -19,9 +19,6 @@ I'm keeping API usage minimal. Here are the dashboards I use:
 
 I'm actively sharing my work and would love to hear feedback or see your own contributions!
 
-📧 Reach me at: **Danunesc@gmail.com**  
 🔗 Connect on [LinkedIn](https://www.linkedin.com/in/coelhodan/)
-
 ---
-
 Let’s build something amazing. 💻🧠
